@@ -1,0 +1,32 @@
+/*
+Template Name: Wrapkit
+Author: Wrappixel
+Email: niravjoshi87@gmail.com
+File: scss
+*/
+/*============================================================== 
+ You can write your style here and overwrite our style
+ ============================================================== */
+
+#link .nav-link {
+  display: inline-block;
+}
+
+.header13 .h13-nav .navbar-nav .nav-item .nav-link {
+  font-weight: 600;
+  font-size: large;
+}
+
+.topbar.fixed-header .navbar .navbar-brand img {
+  height: 35px;
+}
+
+.btn-info {
+    background: #0044e0;
+    border: 1px solid #0044e0;
+}
+
+.btn-info:hover, .btn-info.disabled:hover {
+    background: #0234a8;
+    border: 1px solid #0234a8;
+}
