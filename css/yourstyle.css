@@ -22,11 +22,13 @@ File: scss
 }
 
 .btn-info {
-    background: #0044e0;
-    border: 1px solid #0044e0;
+  background: #0044e0;
+  border: 1px solid #0044e0;
 }
 
-.btn-info:hover, .btn-info.disabled:hover {
-    background: #0234a8;
-    border: 1px solid #0234a8;
+.btn-info:hover,
+.btn-info.disabled:hover {
+  background: #0234a8;
+  border: 1px solid #0234a8;
 }
+
